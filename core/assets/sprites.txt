@@ -1,0 +1,68 @@
+sprites.png
+size: 405, 255
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Bullet
+  rotate: false
+  xy: 0, 0
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1
+NATO Artillary Enemy
+  rotate: false
+  xy: 28, 0
+  size: 133, 83
+  orig: 133, 83
+  offset: 0, 0
+  index: -1
+NATO Artillary Player
+  rotate: false
+  xy: 164, 0
+  size: 133, 83
+  orig: 133, 83
+  offset: 0, 0
+  index: -1
+NATO Cavalry Enemy
+  rotate: false
+  xy: 0, 86
+  size: 133, 83
+  orig: 133, 83
+  offset: 0, 0
+  index: -1
+NATO Cavalry Player
+  rotate: false
+  xy: 136, 86
+  size: 133, 83
+  orig: 133, 83
+  offset: 0, 0
+  index: -1
+NATO Infantry Enemy
+  rotate: false
+  xy: 272, 86
+  size: 133, 83
+  orig: 133, 83
+  offset: 0, 0
+  index: -1
+NATO Infantry Player
+  rotate: false
+  xy: 0, 172
+  size: 133, 83
+  orig: 133, 83
+  offset: 0, 0
+  index: -1
+NATO Ranged Infantry Enemy
+  rotate: false
+  xy: 136, 172
+  size: 133, 83
+  orig: 133, 83
+  offset: 0, 0
+  index: -1
+NATO Ranged Infantry Player
+  rotate: false
+  xy: 272, 172
+  size: 133, 83
+  orig: 133, 83
+  offset: 0, 0
+  index: -1
