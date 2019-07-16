@@ -6,3 +6,8 @@ Trello at https://trello.com/b/hBLhJAv9/skyeye-skirmishes
 Development halted since class has ended. May come back to remake the game with more features/3D engine another time as a passion project.
 
 One big optimization that I see now is that I put all the unit types as separate objects that I just copy-pasted code in after I finished one of the units. Instead, I should have created one "Unit" class and have the others inherit from it. Would have saved me a lot of trouble.
+
+Example Screenshots:
+![screenshot](https://github.com/GH-Edifire/skyeye-skirmishes-game/blob/master/screenshot1.png)
+
+![screenshot2](https://github.com/GH-Edifire/skyeye-skirmishes-game/blob/master/screenshot2.png)
